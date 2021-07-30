@@ -1,19 +1,20 @@
 ---
-date: 2021-07-30 16:34:40
+date: 2020-10-30 16:34:40
 layout: post
-title: Welcome to my blog!
-description: Welcome to my blog, this is a new website were I will be posting about my thoughts
+title: Test New Post
+description: Welcome to a new test
 image: /assets/img/uploads/revision.png
 optimized_image: /assets/img/uploads/revision.png
 category: blog
 tags:
   - testing
-  - omar
   - blog
 author: omarabdulrahman
 ---
 
-Try to add a new post.
+This is my main website <a href='https://Omar45.com'> omar45.com </a>.
+<br>
+Please feel free to have a look at it, thanks!
 
 This is a code block in JS
 

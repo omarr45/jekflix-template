@@ -8,8 +8,7 @@ category: blog
 tags:
   - blog
   - test
-  - ""
 author: omarabdulrahman
-paginate: false
 ---
+
 Testing CMS Please hold on

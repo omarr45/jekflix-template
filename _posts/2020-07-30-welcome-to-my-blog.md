@@ -2,7 +2,6 @@
 date: 2020-07-30 12:34:40
 layout: post
 title: Welcome to my blog!
-# subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Welcome to my blog, this is a new website were I will be posting about my thoughts
 image: /assets/img/posts/post1.jpg
 optimized_image: /assets/img/posts/post1.jpg

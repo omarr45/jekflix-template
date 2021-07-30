@@ -88,6 +88,9 @@
         {% if author.github_username %}
             {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
         {% endif %}
+        {% if author.youtube_username %}
+            {% assign author_urls = author_urls | append: '"https://youtube.com/' | append: author.youtube_username | append: '",' %}
+        {% endif %}
         {% if author.facebook_username %}
             {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
         {% endif %}
@@ -100,8 +103,8 @@
         {% if author.instagram_username %}
             {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
         {% endif %}
-        {% if author.linkedin_username %}
-            {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+        {% if author.wuzzuf_username %}
+            {% assign author_urls = author_urls | append: '"https://www.wuzzuf.net/me/' | append: author.wuzzuf_username | append: '",' %}
         {% endif %}
         {% if page.math %}
         <script>

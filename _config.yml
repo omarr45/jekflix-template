@@ -1,13 +1,10 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Omar's Blog
+title: Omar's Blog | A blog about Programming (and movies)
+description: Here I write about my thoughts.
 tags:
   - blog
   - template
-  - jekyll
-  - theme
   - netlify
 show_hero: true
 menu:
@@ -15,30 +12,30 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+# email: youremail@test.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: omar45
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: omarr45
+facebook_username: omartist45
+instagram_username: omar_abdelrahman45
+wuzzuf_username: Omar45
+youtube_username: OmarAbdulRahman45
+# twitter_username: twitter_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true

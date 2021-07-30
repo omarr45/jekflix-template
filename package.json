@@ -21,12 +21,13 @@
     "url": "https://github.com/thiagorossener/jekflix-template/issues"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.5",
     "child_process": "^1.0.2",
+    "cross-spawn": "^7.0.3",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^6.2.0",
+    "gulp-imagemin": "^7.1.0",
     "gulp-include": "^2.4.1",
     "gulp-plumber": "^1.1.0",
     "gulp-rename": "^1.4.0",

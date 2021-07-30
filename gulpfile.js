@@ -12,7 +12,9 @@ let gulp         = require('gulp'),
     del          = require('del'),
     fs           = require('fs'),
     jsonSass     = require('json-sass'),
-    source       = require('vinyl-source-stream');
+    source       = require('vinyl-source-stream'),
+    spawn        = require('cross-spawn');
+
 
 /**
  * Notify
@@ -46,9 +48,9 @@ function config() {
  */
 function jekyll(done) {
   notify('Building Jekyll...');
-  let bundle = process.platform === "win32" ? "bundle.bat" : "bundle";
+  // let bundle = process.platform === "win32" ? "bundle.bat" : "bundle";
   return cp
-    .spawn(bundle, ['exec', 'jekyll build'], { stdio: 'inherit' })
+    .spawn('bundle.cmd', ['exec', 'jekyll' ,'build'], { stdio: 'inherit' })
     .on('close', done);
 }
 

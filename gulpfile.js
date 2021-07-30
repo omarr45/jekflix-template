@@ -12,8 +12,7 @@ let gulp = require('gulp'),
   del = require('del'),
   fs = require('fs'),
   jsonSass = require('json-sass'),
-  source = require('vinyl-source-stream'),
-  spawn = require('cross-spawn');
+  source = require('vinyl-source-stream');
 
 /**
  * Notify

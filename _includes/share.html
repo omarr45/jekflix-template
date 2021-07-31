@@ -2,7 +2,7 @@
   <h3>{{ site.translations.text.share | default: "Share" }}</h3>
   <a
     aria-label="{{ site.translations.button.share_on_twitter | default: 'Share on Twitter' }}"
-    href="https://twitter.com/intent/tweet?text=Check%20This%20Out!%20%2F%20{{ page.title }}&url={{ window.location.hostname }}{{ page.url }}"
+    href="https://twitter.com/intent/tweet?text=Check%20This%20Out!%20%3A%20{{ page.title }}&url={{ window.location.href }}{{ page.url }}"
     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"
     title="{{ site.translations.button.share_on_twitter | default: 'Share on Twitter' }}"
   >

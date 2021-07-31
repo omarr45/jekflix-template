@@ -16,7 +16,7 @@ paginate: false
 
 _For Arabic Scroll Down_ 👇🏻
 
-# Welcome to my blog!
+## Welcome to my blog! 👋🏻
 
 It's really nice having you here.
 
@@ -24,7 +24,7 @@ You may be asking, why would one make a blog today? and the answer is really sim
 
 But we have social media, don't we? Yup, and I hate them! (Maybe we should discuss the reasons later)
 
-## So, what should you expect to see here?
+## So, what should you expect to see here? 🌟
 
 You shall see posts about:
 
@@ -33,19 +33,21 @@ You shall see posts about:
 3. Movies recommendations (Once a month)
 4. Books I've recently read (Twice a year)
 
-One more thing, below there is a comment section, it'd be much appreciated if you take the time to tell me your thoughts, and let us have a little chat.
+## One more thing 🤙🏻
+
+below there is a comment section, it'd be much appreciated if you take the time to tell me your thoughts, and let us have a little chat.
 
 I hope you have some good time here!
 
 ---
 
 <div dir='rtl'>
-<h1> أهلا بيك في المدوّنة! 👋🏻 </h1>
+<h2> أهلا بيك في المدوّنة! 👋🏻 </h2>
 
 <p>
 أنا سعيد إنك موجود هنا.
-<br>
-<br>
+</p>
+<p>
 ممكن تكون بتتسائل، ايه اللي يخلي واحد يعمل مدونة اليومين دول؟ والإجابة بسيطة الصراحة؛ عشان أشارك أفكاري وأرغي براحتي.
 </p>
 <p>

@@ -5,7 +5,7 @@
   padding-top: rem(20px);
   margin-top: rem(10px);
 
-  @include media(">=sm") {
+  @include media('>=sm') {
     margin-top: rem(50px);
   }
 
@@ -30,8 +30,11 @@
   .icon-twitter:hover {
     fill: #1da1f3;
   }
-  
+
   .icon-facebook:hover {
     fill: #3b5998;
+  }
+  .icon-whatsapp:hover {
+    fill: #46c254;
   }
 }
